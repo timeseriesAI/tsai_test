@@ -3,9 +3,12 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"say_hello": "00_core.ipynb",
-         "say_hello2": "00_core.ipynb"}
+         "say_hello2": "00_core.ipynb",
+         "MLP1": "01_models.MLP.ipynb",
+         "MLP2": "01_models.MLP.ipynb"}
 
-modules = ["core.py"]
+modules = ["core.py",
+           "models/MLP.py"]
 
 doc_url = "https://timeseriesAI.github.io/"
 

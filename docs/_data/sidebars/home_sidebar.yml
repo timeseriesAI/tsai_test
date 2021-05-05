@@ -13,6 +13,12 @@ entries:
       title: tsai test
       url: core.html
     output: web
-    title: tsai_test
+    title: Getting started
+  - folderitems:
+    - output: web,pdf
+      title: MLP
+      url: models.MLP.html
+    output: web
+    title: Models
   output: web
   title: Sidebar

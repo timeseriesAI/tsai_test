@@ -1,6 +1,9 @@
 {
-  "tsai_test": {
+  "Getting started": {
     "Overview": "/",
     "tsai test": "core.html"
+  },
+  "Models": {
+    "MLP": "models.MLP.html"
   }
 }
